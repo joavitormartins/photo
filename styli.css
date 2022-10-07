@@ -1,0 +1,78 @@
+ * {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+ 
+}
+
+
+.fundo{
+   position: absolute;
+   width: 375px;
+height: 707px;
+left: 0px;
+top: 0px;
+}
+.logo{
+    position: absolute;
+ width: 206px;
+height: 54px;
+left: 84px;
+top: 307px;
+}
+
+.log{
+    position: absolute;
+    width: 167px;
+    height: 52px;
+    left: 16px;
+    top: 727px;
+
+background: #FFFFFF;
+border: 2px solid #000000;
+border-radius: 6px;
+}
+
+.registre{  
+    position: absolute;
+    width: 167px;
+    height: 52px;
+    left: 192px;
+    top: 727px;
+    border-radius: 6px;
+    background-color: black;
+    text-transform: uppercase;
+}
+.corp{
+
+    position: absolute;
+    left: 30.54%;
+    right: 30.54%;
+    top: 36.54%;
+    bottom: 34.62%;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 13px;
+    line-height: 15px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+
+.lolo{
+
+align-items: center;
+text-align: center;
+letter-spacing: 0.04em;
+text-transform: uppercase;
+
+color: #000000;
+}
